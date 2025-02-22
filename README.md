@@ -198,7 +198,7 @@ This section provides an overview of the key functions used in the project, alon
   
   
 
-![image](https://github.com/user-attachments/assets/0c68a671-a0fe-4ec9-8be0-125c3def0657)     ![image](https://github.com/user-attachments/assets/d4d31872-fc7c-4402-aca3-e6e54837580e)
+![image](https://github.com/user-attachments/assets/0c68a671-a0fe-4ec9-8be0-125c3def0657)               ![image](https://github.com/user-attachments/assets/d4d31872-fc7c-4402-aca3-e6e54837580e)
 
 
 
