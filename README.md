@@ -17,7 +17,7 @@ This document presents a **Bluetooth Low Energy (BLE) Beacon** project implement
   - Download: Available on **App Store & Play Store**
 
 - **Suggestion:** 
-  - First, install **Segger Embedded Studio**. Then, download the **nRF5 SDK** and extract the files from the archive. Next, navigate to the ***examples/ble_peripheral*** directory. Copy the ***ble_app_beacon*** folder and create an empty folder inside the examples directory. Paste the copied folder into the newly created one.
+  - First, install **Segger Embedded Studio**. Then, download the **nRF5 SDK** and extract the files from the archive. Next, navigate to the ***examples/ble_peripheral*** directory. Copy the ***ble_app_beacon*** folder and create an empty folder inside the ***examples*** directory. Paste the copied folder into the newly created one.
 
   - After that, open the copied **ble_app_beacon** folder and go to the ***pca100xx*** directory that corresponds to your nRF kit (mine is pca10040). Inside this folder, navigate   to the s1xx directory (mine is s132). Then, enter the ***ses*** folder. Finally, double-click the ***.emProject***(mine ble_app_beacon_pca10040_s132.emProject) file inside to open the project.
 ---
