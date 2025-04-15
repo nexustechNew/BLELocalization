@@ -6,7 +6,7 @@ This document presents a **Bluetooth Low Energy (BLE) Beacon** project implement
 ## 2. Requirements
 
 ### **Hardware:**
-- **nRF52810 Development Kit** (or any other compatible nRF52 family device)
+- **nRF52 Development Kit** (or any other compatible nRF52 family device)
 
 ### **Software:**
 - **Segger Embedded Studio (SES)** – Integrated Development Environment (IDE) for firmware development  
